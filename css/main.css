@@ -1,0 +1,259 @@
+body{
+    /* font-family: 'Kanit', sans-serif; */
+    /* font-family: 'Poppins', sans-serif; */
+    background: #E5E5E5;
+    /* background-color: #02897A; */
+}
+.container{
+    widows: 1260px;
+    margin: 0 auto;
+    padding: 0 120px;
+}
+.header{
+    font-family: 'Poppins';
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    position: fixed;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 0;
+    background-color: rgb(150, 200, 244);
+    
+}
+.header:hover{
+    /* background-color: rgb(143, 117, 83); */
+}
+.header-hero {
+    text-decoration: none;
+}
+
+.header-list{
+    display: flex;
+}
+li{
+    list-style: none;
+    margin-left: 30px;
+}
+.header-item a{
+    text-decoration: none;
+}
+.header-hero{
+    /* justify-content: space-between; */
+    display: flex;
+    font-size: 32px;
+    /* width: 170px; */
+    /* padding: 3%; */
+    /* background-color: yellowgreen; */
+
+}
+.a button{
+    width: 103px;
+    height: 30px;
+    border:1px solid;
+    border-radius: 4px;
+    align-items: center;
+    text-align: center;
+}
+.aa button{
+    width: 103px;
+    height: 30px;
+    border:1px solid;
+    border-radius: 4px;
+    text-align: center;
+    /* align-items: center; */
+    /* justify-content: center; */
+    text-decoration: none;
+    background-color:rgba(2, 137, 122, 1);
+    ;
+}
+.header ul li a{
+    margin: 10px;
+}
+.section-one{
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 150px;
+}
+.one{
+    display: flex;
+    margin: 0 auto;
+    margin-left: 100px;
+}
+.one-left{
+    margin-top: 100px;
+}
+.oneleft-botton{
+    font-size: 40px;
+}
+.aaa{
+    Width:175px;
+    Height:53px;
+    left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%;
+    background: #02897A;
+    border-radius: 4px;
+}
+.text{
+    margin-left: 20px;
+}
+.section-two{
+    margin-top: 100px;
+}
+.twocenter-botton{
+    text-align: center;
+    font-size: 32px;
+}
+.two-top{
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content:space-around;
+    text-align: center;
+    align-items: center;
+}
+.qqqq-q{
+    color: white;
+    /* left: 0%;
+    right: 0%;
+    top: 0%;
+    bottom: 0%; */
+    Width:175px;
+    Height:53px;
+    Radius:4px;
+    background: rgba(2, 137, 122, 1);
+    margin-left: 650px;
+    margin-top: 50px;
+}
+.treer{
+    margin-top: 120px;
+}.ther{
+    margin-top: 120px;
+}
+.three-right{
+    margin-left: 40px;
+}
+.section-three{
+    display: flex;
+    /* width: 80%; */
+    margin: 0 auto;
+    margin-left: 200px;
+    margin-top: 150px;
+}
+.section-four{
+    display: flex;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-left: 130px;
+}
+.four-right{
+    margin-left: 160px;
+}
+ul li{
+    display: flex;
+    align-items: center;
+
+}
+ul p{
+    margin-left: 40px;
+}
+ul img{
+    width: 35px;
+    height: 35px;
+    margin-left: -80px;
+}
+.section-five{
+    display: flex;
+    margin: 0 auto;
+    margin-top:100px;
+    margin-left: 160px;
+}
+.five-right{
+    margin-left: 70px;
+}
+.section-six{
+    /* width: 100%; */
+    /* margin: 0 auto; */
+    /* width: 160px; */
+    width:100%;
+    margin-top:10%;
+}
+.section-seven{
+    margin-top: 160px;
+}
+.seven-botton{
+    margin-left: 80px;
+}
+.seven-center{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+.seven1{
+    width: 348px;
+    height: 359px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 7px;
+}
+.seven2{
+    width: 348px;
+    height: 359px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 17px;
+}
+.seven2 img{
+    border-radius: 7px;
+}
+.seven3{
+    width: 348px;
+    height: 359px;
+    background-color: aqua;
+    text-align: center;
+    border-radius: 7px;
+}
+.seven3 img{
+    border-radius: 7px;
+}
+.eight-center{
+    position: relative;
+    display: flex;
+}
+.eight-botton{
+    text-align: center;
+}
+.eight-center{
+    display: flex;
+}
+.eight-one{
+    Width:322.65px;
+    Height:456px;
+    border: 1px solid;
+    position: relative;
+    border-radius:8px;
+    text-align: center;
+    z-index: -1;
+}
+/* .eight-center img{display: flex;} */
+.center-2{
+    position: absolute;
+    /* bottom: 5px; */
+}
+.center-3{
+    position: absolute;
+    left: 180px;
+    /* top: -2px; */
+}
+.eight-two{
+    Width:322.65px;
+    Height:456px;
+    border: 1px solid;
+    /* position: relative; */
+    border-radius:8px;
+    text-align: center;
+}
